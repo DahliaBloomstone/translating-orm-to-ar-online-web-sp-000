@@ -1,6 +1,5 @@
-class Dog
-Dog < ActiveRedord::Base
-end 
+class Dog < ActiveRedord::Base
+
 
 
 
